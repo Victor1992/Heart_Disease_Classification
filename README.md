@@ -34,3 +34,9 @@ https://www.kaggle.com/ronitf/heart-disease-uci
   * Since we are predicting for classification model default evaluation metric is accuracy for baseline model
   
   <img src="images/baseline_model_comparison.png">
+
+## 4. Hyperparameter Tuning results using Random Search CV
+    
+    <img src="images/model_compare_randomizedsearchCV.png">
+  
+    
