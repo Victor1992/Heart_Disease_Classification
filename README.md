@@ -47,6 +47,10 @@ https://www.kaggle.com/ronitf/heart-disease-uci
   * Since our logistic regression model provides the best results scores so far, therefore tried to improve score using GridSearchCV which gave results
     as **0.8852459016393442**
   
+## 5. Evaluation using different metrics
+
+* ROC and AUC curve
+
 
 
 
