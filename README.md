@@ -31,5 +31,6 @@ https://www.kaggle.com/ronitf/heart-disease-uci
   * Random Forest
 
 * Baseline Model Comparison
+  * Since we are predicting for classification model default evaluation metric is accuracy for baseline model
   
-  <img src="images/baseline_model_compariosn.png">
+  <img src="images/baseline_model_comparison.png">
