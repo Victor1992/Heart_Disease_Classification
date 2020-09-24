@@ -34,9 +34,19 @@ https://www.kaggle.com/ronitf/heart-disease-uci
   * Since we are predicting for classification model default evaluation metric is accuracy for baseline model
   
   <img src="images/baseline_model_comparison.png">
+  
+  
 
-## 4. Hyperparameter Tuning results using Random Search CV
+## 4. Hyperparameter Tuning 
 
-<img src="images/model_compare_randomizedsearchCV.png">
+* Using RandomSearchCV
+  <img src="images/model_compare_randomizedsearchCV.png">
+
+* Using GridSearchCV
+  * Since our logistic regression model provides the best results scores so far, therefore tried to improve that using GridSearchCV
+  
+
+
+
   
     
