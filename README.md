@@ -51,6 +51,14 @@ https://www.kaggle.com/ronitf/heart-disease-uci
 
 * ROC and AUC curve
 
+  <img src="images/roc.png">
+  
+* Confusion Matrix
+
+  <img src="images/confusion_matrix.png">
+
+
+
 
 
 
