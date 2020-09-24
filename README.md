@@ -40,10 +40,12 @@ https://www.kaggle.com/ronitf/heart-disease-uci
 ## 4. Hyperparameter Tuning 
 
 * Using RandomSearchCV
+
   <img src="images/model_compare_randomizedsearchCV.png">
 
 * Using GridSearchCV
-  * Since our logistic regression model provides the best results scores so far, therefore tried to improve that using GridSearchCV
+  * Since our logistic regression model provides the best results scores so far, therefore tried to improve score using GridSearchCV which gave results
+    as **0.8852459016393442**
   
 
 
