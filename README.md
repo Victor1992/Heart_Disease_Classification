@@ -36,7 +36,7 @@ https://www.kaggle.com/ronitf/heart-disease-uci
   <img src="images/baseline_model_comparison.png">
 
 ## 4. Hyperparameter Tuning results using Random Search CV
-    
-    <img src="images/model_compare_randomizedsearchCV.png">
+
+<img src="images/model_compare_randomizedsearchCV.png">
   
     
