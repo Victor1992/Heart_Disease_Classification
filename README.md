@@ -1,4 +1,5 @@
 # Heart_Disease_Classification
+Repo for machine learning project with the goal of prediction whether or not someone has heart disese based on their medical attributes.
 
 # Predicting heart disease using Machine Learning
 
